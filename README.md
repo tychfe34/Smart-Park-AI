@@ -19,7 +19,6 @@ Founding CEO — led business strategy, market research, and financial modeling 
 | [`index.html`](index.html) | Interactive case study — hero metrics, financials, break-even grid |
 | [`Smart Park AI Financial Model.xlsx`](Smart%20Park%20AI%20Financial%20Model.xlsx) | Full 3-year financial model (revenue build, cost structure, break-even, cash flow) |
 | [`Final Smart Park AI Business Plan.pdf`](Final%20Smart%20Park%20AI%20Business%20Plan.pdf) | Complete business plan document |
-| [`Final Smart Park AI Business Plan.docx`](Final%20Smart%20Park%20AI%20Business%20Plan.docx) | Business plan (Word version) |
 | [`Smart Park AI Presentation.pptx`](Smart%20Park%20AI%20Presentation.pptx) | Pitch deck (PowerPoint) |
 | [`Smart Park AI Presentation-1.pdf`](Smart%20Park%20AI%20Presentation-1.pdf) | Pitch deck (PDF version) |
 
