@@ -14,8 +14,6 @@ Founding CEO — led business strategy, market research, and financial modeling 
 
 ## What's in this repo
 
-## What's in this repo
-
 | File | Description |
 |---|---|
 | [`index.html`](index.html) | Interactive case study — hero metrics, financials, break-even grid |
