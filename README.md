@@ -40,4 +40,4 @@ Founding CEO — led business strategy, market research, and financial modeling 
 
 *This is an MBA capstone project. Company details, contact information, and projections are illustrative and represent a modeled business plan, not an operating company.*
 
-**Contact:** [LinkedIn](#) · [Resume](#) · [Email](#)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/tyler-chaffee-b-s-mba-48027831b/) · [Resume](file:///Users/tylerchaffee/Downloads/Tyler_Chaffee_Resume_General_%20Final%20(1).pdf) · [Email](tychfe34@gmail.com)
